@@ -2,7 +2,7 @@
 
 You know, a holiday tree on Bash :)
 
-![Screenshot](./screenshot.png?raw=true)
+![Screenshot](./tree.gif?raw=true)
 
 # Usage
 
