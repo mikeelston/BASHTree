@@ -1,6 +1,6 @@
-# ChristBASHTree
+# BASHTree
 
-You know, a Christmas tree on Bash :)
+You know, a holiday tree on Bash :)
 
 ![Screenshot](./screenshot.png?raw=true)
 
@@ -10,33 +10,19 @@ Via cURL:
 
 ```
 # English version
-curl https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/tree-EN.sh | bash
-
-# Spanish version
-curl https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/tree-ES.sh | bash
+curl https://raw.githubusercontent.com/mikeelston/BASHTree/master/tree-EN.sh | bash
 ```
 
 Via Wget:
 
 ```
-# English version
-wget -qO- https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/tree-EN.sh | bash
-
-# Spanish version
-wget -qO- https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/tree-ES.sh | bash
-```
-
-Docker:
-
-```
-docker pull sergiolepore/christbashtree:latest
-docker run -it sergiolepore/christbashtree:latest
+wget -qO- https://raw.githubusercontent.com/mikeelston/BASHTree/master/tree-EN.sh | bash
 ```
 
 Git clone and execute:
 
 ```
-git clone https://github.com/sergiolepore/ChristBASHTree.git && cd ./ChristBASHTree && bash tree-EN.sh
+git clone https://github.com/mikeelston/BASHTree.git && cd ./BASHTree && bash tree-EN.sh
 ```
 
 __Enjoy!__
@@ -65,4 +51,4 @@ Custom, based on Atom's "One Dark" theme.
 
 ## Contributors
 
-[Here](https://github.com/sergiolepore/ChristBASHTree/graphs/contributors)
+[Here](https://github.com/mikeelston/BASHTree/graphs/contributors)
